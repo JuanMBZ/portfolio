@@ -1,0 +1,36 @@
+body {
+    background-color: ivory;
+    color: #0c0908;
+    max-width: 800px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.navigation-list {
+    margin-left: auto;
+}
+
+.navigation-bar {
+    display: flex;
+}
+
+ul .navigation {
+    display: inline;
+}
+
+#profile-img {
+    display: block;
+    margin: auto;
+}
+
+a{
+    color: inherit;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    padding: 2rem 5rem;
+}
